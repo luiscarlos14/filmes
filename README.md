@@ -12,4 +12,4 @@
 <br><br>
 ## Link do Projeto
 
-luiscarlosbarrosfilmes.netlify.app
+<https://luiscarlosbarrosfilmes.netlify.app>
